@@ -1,7 +1,7 @@
 
 /*  
- *  hello-2.c - Demonstrating the module_init() and module_exit() macros.
- *  This is preferred over using init_module() and cleanup_module().
+ *  Hello.c - Sample Hello World Device Driver
+ *  Tested  on Ubuntu 10.10 Lucid Lynx (Kernel Ver 2.6.38)
  */
 
 #include <linux/module.h>	/* Needed by all modules */
