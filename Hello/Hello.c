@@ -2,6 +2,9 @@
 /*  
  *  Hello.c - Sample Hello World Device Driver
  *  Tested  on Ubuntu 10.10 Lucid Lynx (Kernel Ver 2.6.38)
+ *  Run the make file in the directory by make command 
+ *  insert the module with insmod Hello.ko  
+ *
  */
 
 #include <linux/module.h>	/* Needed by all modules */
