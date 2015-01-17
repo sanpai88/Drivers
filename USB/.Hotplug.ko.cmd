@@ -1,0 +1,1 @@
+cmd_/home/santhosh/Drivers/USB/Hotplug.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-38-generic/scripts/module-common.lds --build-id -o /home/santhosh/Drivers/USB/Hotplug.ko /home/santhosh/Drivers/USB/Hotplug.o /home/santhosh/Drivers/USB/Hotplug.mod.o
